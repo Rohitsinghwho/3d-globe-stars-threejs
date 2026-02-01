@@ -11,7 +11,7 @@ A mesmerizing interactive 3D globe surrounded by a dynamic starfield, built with
 - Performant rendering with 60fps target
 
 ## 🔗 Live Demo
-[![Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-deployment-url.com)
+[![Demo](https://earth-rotation-six.vercel.app)]
 
 ## 🛠️ Tech Stack
 | Technology | Purpose |
@@ -30,7 +30,7 @@ A mesmerizing interactive 3D globe surrounded by a dynamic starfield, built with
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/3d-globe-stars.git
+git clone https://github.com/rohitsinghwho/3d-globe-stars-threejs.git
 npm install
 npm run dev
 
