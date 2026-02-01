@@ -11,10 +11,9 @@ export class Globe{
     createGlobe(){
         const geometry=new THREE.SphereGeometry(this.radius,64,64);
 
-
         const textureLoader=new THREE.TextureLoader();
         const texture=textureLoader.load('../public/earth/flat_earth03.jpg');
-        const material=new THREE.MeshPhongMaterial({map:texture});
+        const material=new THREE.MeshPhongMaterial({map:texture,emissive:true});
         const globe=new THREE.Mesh(geometry,material)
 
         this.rotationSpeed=0.005;
