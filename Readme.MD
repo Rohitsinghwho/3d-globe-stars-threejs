@@ -11,7 +11,7 @@ A mesmerizing interactive 3D globe surrounded by a dynamic starfield, built with
 - Performant rendering with 60fps target
 
 ## 🔗 Live Demo
-[![Demo](https://earth-rotation-six.vercel.app)]
+[![Demo](https://img.shields.io/badge/Live-Demo-blue)](https://earth-rotation-six.vercel.app)
 
 ## 🛠️ Tech Stack
 | Technology | Purpose |
